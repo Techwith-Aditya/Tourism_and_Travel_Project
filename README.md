@@ -1,16 +1,14 @@
 # Tourism & Travel Industry Project 🌎
-Welcome to the Tourism & Travel Industry project! We're transforming the travel experience with innovative solutions for both travelers and industry professionals.
+Welcome to the **Tourism & Travel Industry** project! We're using **AR technology**, **PHP**, and **MySQL** to revolutionize travel experiences for both travelers and industry professionals.
 
 ## Features ✨
-- **AR Destination Guides**: Experience immersive AR guides for popular destinations. 🗺️
-- **Travel Planning Tools**: Plan your trips with personalized itineraries. 🛫
-- **Real-Time Analytics**: Stay informed with real-time data on tourism trends. 📊
-- **Interactive Maps**: Customize your route with interactive maps and filters. 🗺️
-- **User Reviews and Ratings**: Read and contribute reviews and ratings for destinations and attractions. ⭐
+- **<u>AR Destination Guides</u>**: Experience immersive AR guides for popular destinations. 🗺️
+- **<u>Travel Planning Tools</u>**: Plan trips with personalized itineraries. 🛫
+- **<u>Real-Time Analytics</u>**: Stay informed with live data on tourism trends. 📊
+- **<u>User Reviews & Ratings</u>**: Read and contribute reviews for attractions. ⭐
 
 ## Contact 📬
-For questions or feedback, reach out to:
-
-- **Aditya Mishra**: mishraupendra305@gmail.com
+For questions, contact **<u>Aditya Mishra</u>**: mishraupendra@gmail.com
 
 Thank you for visiting our project! 😊
+
