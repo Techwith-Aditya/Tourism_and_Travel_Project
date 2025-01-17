@@ -8,7 +8,7 @@ Welcome to the **Tourism & Travel Industry** project! We're using **AR technolog
 - **<u>User Reviews & Ratings</u>**: Read and contribute reviews for attractions. 
 
 ## Contact 
-For questions, contact **<u>Aditya Mishra</u>**: mishraupendra@gmail.com
+For questions, contact **<u>Aditya Mishra</u>**: mishraupendra305@gmail.com
 
-Thank you for visiting our project! 😊
+Thank you for visiting our project! 
 
